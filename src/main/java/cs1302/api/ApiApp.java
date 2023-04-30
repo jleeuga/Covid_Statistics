@@ -9,6 +9,13 @@ import javafx.scene.layout.VBox;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
+import java.lang.Runnable;
+import java.lang.Thread;
+import javafx.scene.control.TextField;
+
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+
 /**
  * REPLACE WITH NON-SHOUTING DESCRIPTION OF YOUR APP.
  */
@@ -16,6 +23,8 @@ public class ApiApp extends Application {
     Stage stage;
     Scene scene;
     VBox root;
+
+    T
 
     /**
      * Constructs an {@code ApiApp} object. This default (i.e., no argument)
