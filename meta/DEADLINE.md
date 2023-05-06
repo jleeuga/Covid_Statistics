@@ -14,6 +14,8 @@ Markdown is transformed into nice looking HTML.
 
 > **Also, include the GitHub `https` URL to your repository.**
 
+https://github.com/jleeuga/cs1302-api
+
 This app allows the users to find information about a city and statistics
 relating to Covid-19 and the coutnry the city resides in. To use this app,
 the user must type in a real city name in the textfield at the
